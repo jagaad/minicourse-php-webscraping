@@ -10,13 +10,15 @@ The mini-course starts by presenting how to set up the environment (on Windows).
 
 **Note:** During the mini-course, there are some jumps between basics and intermediate PHP concepts to see a little more about the language features.
 
-## Download Tools
+## Tools
 
-- [XAMPP](https://www.apachefriends.org/index.html): It provides the PHP executable;
-- [Composer](https://getcomposer.org/): The PHP package manager. Its installer provides the environment variable configuration also for PHP;
-- [Git Bash (Windows)](https://git-scm.com/downloads): It provides a terminal (Unix-like) containing the Git command.
+Tools installed at the beginning of the mini-course:
 
-## Commands Used
+- [XAMPP](https://www.apachefriends.org/index.html): It provides the PHP executable
+- [Composer](https://getcomposer.org/): The PHP package manager. Its installer provides the environment variable configuration also for PHP
+- [Git Bash (Windows)](https://git-scm.com/downloads): It provides a terminal (Unix-like) containing the Git command
+
+## Commands
 
 The main commands used during the mini-course:
 
@@ -27,7 +29,7 @@ The main commands used during the mini-course:
 - `cd php-basics`: Change the directory to the passed one, in this case `php-basics`
 - `clear`: Clear the visible commands in the terminal
 
-Check out this page to learn more about Basic UNIX commands: http://mally.stanford.edu/~sr/computing/basic-unix.html
+Check out the [Basic UNIX commands by Stanford](http://mally.stanford.edu/~sr/computing/basic-unix.html) to learn more.
 
 ## PHP References
 
@@ -43,4 +45,4 @@ Links for the main contents presented during the mini-course:
 - [Generators](https://www.php.net/manual/en/language.generators.overview.php)
 - Package: [Goutte PHP Web Scraper](https://github.com/FriendsOfPHP/Goutte)
 
-Check out the PHP complete documentation containing more details about each of the functionalities: https://www.php.net/manual/en/
+Check out the [PHP complete documentation](https://www.php.net/manual/en/) containing more details about each of the functionalities.
