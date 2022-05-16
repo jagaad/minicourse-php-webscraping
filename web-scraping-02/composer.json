@@ -1,0 +1,19 @@
+{
+    "name": "jagaad-academy/web-scraaping",
+    "description": "Mini-course web scraping",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JagaadAcademy\\WebScraaping\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "^4.0"
+    }
+}
