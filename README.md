@@ -31,6 +31,14 @@ The main commands used during the mini-course:
 
 Check out the [Basic UNIX commands by Stanford](http://mally.stanford.edu/~sr/computing/basic-unix.html) to learn more.
 
+## Source code
+
+You can find in this repository the code created in the mini-course:
+
+- [PHP Basics](./php-basics/)
+- [Creating a Web Scraping](./web-scraping-01/)
+- [Web Scraping with external package](./web-scraping-02/)
+
 ## PHP References
 
 Links for the main contents presented during the mini-course:
